@@ -6,7 +6,6 @@ namespace ThomasFortMIS221Lab1
     {
         static void Main(string[] args)
         {
-            // Step 1
             double heightInches = GetHeightInches();
             double stepsTaken = GetStepsTaken();
             const double STRIDE_LENGTH = .413;
